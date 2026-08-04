@@ -41,6 +41,12 @@ Our working distinction separates four things that are often collapsed into one:
 
 - 🌐 **Public record** — *live*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
+
+<div align="right">
+  <a href="./SKILLS.md"><img src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
+  <a href="https://see-sol-lab.github.io/zh/"><img src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
+</div>
+
 - 🧭 **Continuity experiments** — *active research*
   - **Memory Is Not Duration** — provenance-aware state continuity for persistent agents.
   - **First-choice continuity** — testing whether prior judgments survive before explanation.
