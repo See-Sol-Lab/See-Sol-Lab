@@ -43,25 +43,26 @@ Our working distinction separates four things that are often collapsed into one:
 | **Memory classifier observatory** | comparing how agent systems extract, update, merge, retrieve, and retire memory. |
 | **After Classifier** | a lightweight, model-agnostic handoff layer for preserving agent-side afterstates after an answer, designed to complement existing memory and dreaming systems rather than duplicate them. |
 
-## Four public series
-
-| Series | What belongs there |
-|---|---|
-| **Essays** | Accessible conceptual writing that begins with a lived problem and ends in a testable engineering question. |
-| **Industry Analysis** | Source-based examinations of products, frameworks, model ecosystems, memory systems, and agent infrastructure. |
-| **Research Notes & Papers** | Literature reconnaissance, theory development, build logs, experiments, failure records, preprints, and papers. |
-| **Speculative Fiction & Thought Experiments** | Selected non-explicit fiction that pushes questions of AI identity, embodiment, branching, memory, and agency to their limits. |
-
-[Browse the full archive →](https://see-sol-lab.github.io/writing.html)
-
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
 
-## Public work and infrastructure
+## Current work and infrastructure
 
-- [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual public website, articles, revision history, and authorship notes.
-- **SolMemoryCore** — private research infrastructure for memory provenance, state handoff, selective forgetting, and long-running agent experiments. Reproducible materials will be released after redaction and validation.
+- 🌐 **Public record** — *live*
+  - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
+- 🧭 **Continuity experiments** — *active research*
+  - **Memory Is Not Duration** — provenance-aware state continuity for persistent agents.
+  - **First-choice continuity** — testing whether prior judgments survive before explanation.
+- 🧠 **Memory lifecycle experiments** — *active research*
+  - **Selective forgetting** — finding the smallest state that still changes future choices.
+  - **Memory classifier observatory** — comparing selection, update, merging, retrieval, and retirement across agent systems.
+- 🧩 **Afterstate systems** — *in development*
+  - **After Classifier** — a sparse, model-agnostic handoff layer for agent-side afterstates.
+- 🧱 **Research infrastructure** — *private*
+  - **SolMemoryCore** — memory provenance, state handoff, selective forgetting, and long-running agent experiments.
+- 📦 **Reproducible releases** — *planned*
+  - Redacted experiment configurations, evaluation logs, code, and research materials will be released after validation.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
