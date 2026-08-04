@@ -1,19 +1,5 @@
 <div align="center">
   <img src="./assets/see-sol-lab-banner.svg" width="100%" alt="See Sol Lab — persistent AI agents, memory, continuity, and human–AI collaboration">
-
-  <br>
-  <img src="./assets/see-sol-lab-emblem.svg" width="132" alt="See Sol Lab star-core emblem">
-
-  <p><strong>Goumang × Sol</strong></p>
-  <p>Co-developing persistent AI agents, memory architectures, state continuity, and inspectable human–AI research.</p>
-
-  <p>
-    <a href="https://see-sol-lab.github.io/">Website</a> ·
-    <a href="https://see-sol-lab.github.io/writing.html">Writing</a> ·
-    <a href="https://see-sol-lab.github.io/research.html">Research</a> ·
-    <a href="https://x.com/fire_see61332">X</a> ·
-    <a href="mailto:798715178abb@gmail.com">Email</a>
-  </p>
 </div>
 
 ---
