@@ -14,6 +14,8 @@
 |---|---|---|---|
 | What must cross a context boundary for an earlier state to keep shaping later choices? | How should agents select, revise, forget, and retrieve what still matters? | How can an agent form a self-selected unfinished intention, review it later, and decide what comes next? | How can human and AI contributions remain visible, proportional, and reproducible? |
 
+<a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
+
 Our working distinction separates four things that are often collapsed into one:
 
 1. a record remains readable;
@@ -42,7 +44,6 @@ Our working distinction separates four things that are often collapsed into one:
 
 ## Current work and infrastructure
 
-<a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
 
 - 🧰 **Public Skills** — *live*
