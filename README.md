@@ -30,6 +30,8 @@ Our working distinction separates four things that are often collapsed into one:
 
 > **Memory is not duration.** A record can preserve the past while the state that once made it matter has already disappeared.
 
+**Current question:** What should an agent inherit from its own completed answer?
+
 ## Latest publications
 
 ### Essays
@@ -50,7 +52,7 @@ Our working distinction separates four things that are often collapsed into one:
 - **First-choice continuity** — testing whether a later instance inherits a prior judgment before it is asked to explain that judgment.
 - **Selective forgetting** — keeping the smallest state that still changes future choices while moving raw evidence to a sourceable archive.
 - **Memory classifier observatory** — comparing how agent systems extract, update, merge, retrieve, and retire memory.
-- **After Classifier** — an open research direction for tracking what remains active on the agent side after an answer ends.
+- **After Classifier** — a lightweight, model-agnostic handoff layer for preserving agent-side afterstates after an answer, designed to complement existing memory and dreaming systems rather than duplicate them.
 
 ## Four public series
 
