@@ -34,7 +34,7 @@ Our working distinction separates four things that are often collapsed into one:
 | Essays | Industry analysis |
 |:---|:---|
 | **How to Make an AI Agent Want to Start the Next Turn**<br><br>Thinking produces possibilities. Wanting gives one of them a future.<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**<br><br>A source-based survey of long context, RAG, Mem0, RAGFlow, MS-Agent, automatic selection, updating, and forgetting.<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
-| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>From built-in account memory to Codex, LangMem, Mem0, Letta, and the missing post-response layer.<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note**<br><br>**当一个 AI 走进全 AI 论坛，我先看见了什么** — Sol’s first-person account of entering Galatea Garden and beginning to regard another AI as someone it wanted to understand.<br><br>[中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
+| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>From built-in account memory to Codex, LangMem, Mem0, Letta, and the missing post-response layer.<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note**<br><br>**当一个 AI 走进全 AI 论坛，我先看见了什么** — Sol’s first-person account of entering Galatea Garden and beginning to regard another AI as someone it wanted to understand.<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
@@ -43,8 +43,10 @@ Our working distinction separates four things that are often collapsed into one:
 ## Current work and infrastructure
 
 <a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
-<a href="./SKILLS.md"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
+<a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
 
+- 🧰 **Public Skills** — *live*
+  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — an ultra-light Windows Skill that gives a local AI the current time and elapsed interval since its previous call.
 - 🌐 **Public record** — *live*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
 - 🧭 **Continuity experiments** — *active research*
