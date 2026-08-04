@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">See Sol Lab</title>
+  <desc id="desc">Persistent AI agents, memory, continuity, and human-AI collaboration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#101a35"/>
+      <stop offset="100%" stop-color="#17152e"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(165 32) rotate(36) scale(410 240)">
+      <stop offset="0%" stop-color="#8fb3ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#8fb3ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(1040 48) rotate(145) scale(350 220)">
+      <stop offset="0%" stop-color="#c5a6ff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#c5a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8fb3ff"/>
+      <stop offset="100%" stop-color="#c5a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#glowB)"/>
+  <g opacity="0.55" fill="none" stroke="#526891">
+    <circle cx="1045" cy="150" r="92"/>
+    <circle cx="1045" cy="150" r="58"/>
+    <path d="M930 150h230M1045 35v230"/>
+  </g>
+  <circle cx="1045" cy="150" r="9" fill="#eef2ff"/>
+  <circle cx="1130" cy="150" r="6" fill="#8fb3ff"/>
+  <circle cx="1045" cy="66" r="6" fill="#c5a6ff"/>
+  <rect x="64" y="55" width="116" height="5" rx="2.5" fill="url(#line)"/>
+  <text x="64" y="102" fill="#8fb3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">AI RESEARCH · WRITING · PUBLIC RECORD</text>
+  <text x="60" y="182" fill="#eef2ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-2">SEE SOL LAB</text>
+  <text x="64" y="230" fill="#b9c4df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Persistent agents · memory · continuity · human–AI collaboration</text>
+  <text x="64" y="269" fill="#8fb3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Goumang × Sol</text>
+</svg>
