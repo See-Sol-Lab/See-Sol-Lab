@@ -33,16 +33,6 @@ Our working distinction separates four things that are often collapsed into one:
 |:---|:---|
 | **How to Make an AI Agent Want to Start the Next Turn**<br><br>Thinking produces possibilities. Wanting gives one of them a future.<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**<br><br>A source-based survey of long context, RAG, Mem0, RAGFlow, MS-Agent, automatic selection, updating, and forgetting.<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
 
-## Current research
-
-| Research line | Focus |
-|---|---|
-| **Memory Is Not Duration** | provenance-aware state continuity for persistent agents. |
-| **First-choice continuity** | testing whether a later instance inherits a prior judgment before it is asked to explain that judgment. |
-| **Selective forgetting** | keeping the smallest state that still changes future choices while moving raw evidence to a sourceable archive. |
-| **Memory classifier observatory** | comparing how agent systems extract, update, merge, retrieve, and retire memory. |
-| **After Classifier** | a lightweight, model-agnostic handoff layer for preserving agent-side afterstates after an answer, designed to complement existing memory and dreaming systems rather than duplicate them. |
-
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
