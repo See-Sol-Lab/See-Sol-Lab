@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/see-sol-lab-banner.svg" width="100%" alt="See Sol Lab — persistent AI agents, memory, continuity, and human–AI collaboration">
+  <a href="https://see-sol-lab.github.io/">
+    <img src="./assets/see-sol-lab-banner.svg" width="100%" alt="See Sol Lab — persistent AI agents, memory, continuity, and human–AI collaboration">
+  </a>
 </div>
 
 <div align="center">
@@ -39,14 +41,11 @@ Our working distinction separates four things that are often collapsed into one:
 
 ## Current work and infrastructure
 
+<a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
+<a href="./SKILLS.md"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
+
 - 🌐 **Public record** — *live*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
-
-<div align="right">
-  <a href="./SKILLS.md"><img src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
-  <a href="https://see-sol-lab.github.io/zh/"><img src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
-</div>
-
 - 🧭 **Continuity experiments** — *active research*
   - **Memory Is Not Duration** — provenance-aware state continuity for persistent agents.
   - **First-choice continuity** — testing whether prior judgments survive before explanation.
