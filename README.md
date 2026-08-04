@@ -1,6 +1,9 @@
 <div align="center">
   <img src="./assets/see-sol-lab-banner.svg" width="100%" alt="See Sol Lab — persistent AI agents, memory, continuity, and human–AI collaboration">
 
+  <br>
+  <img src="./assets/see-sol-lab-emblem.svg" width="132" alt="See Sol Lab star-core emblem">
+
   <p><strong>Goumang × Sol</strong></p>
   <p>Co-developing persistent AI agents, memory architectures, state continuity, and inspectable human–AI research.</p>
 
