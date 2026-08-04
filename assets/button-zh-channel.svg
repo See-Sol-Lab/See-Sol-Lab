@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 320 104" role="img" aria-labelledby="title desc">
+  <title id="title">中文通道</title>
+  <desc id="desc">Open the Chinese-language See Sol Lab channel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111a35"/>
+      <stop offset="100%" stop-color="#211735"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8fb3ff"/>
+      <stop offset="100%" stop-color="#c5a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="312" height="96" rx="24" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="52" cy="52" r="32" fill="#c5a6ff" fill-opacity="0.10" stroke="#c5a6ff" stroke-opacity="0.38"/>
+  <g transform="translate(52 52)">
+    <circle r="17" fill="none" stroke="#8fb3ff" stroke-width="1.8" stroke-opacity="0.72"/>
+    <circle r="4.5" fill="#eef2ff"/>
+    <circle cx="14" cy="-9" r="3.5" fill="#c5a6ff"/>
+    <path d="M0-13C2-4 4-2 13 0C4 2 2 4 0 13C-2 4-4 2-13 0C-4-2-2-4 0-13Z" fill="#8fb3ff" fill-opacity="0.34"/>
+  </g>
+  <text x="102" y="48" fill="#eef2ff" font-family="Inter,PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,Arial,sans-serif" font-size="23" font-weight="750">中文通道</text>
+  <text x="102" y="70" fill="#c5a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="650" letter-spacing="1.6">CHINESE CHANNEL</text>
+  <path d="M283 46l8 6-8 6" fill="none" stroke="#8fb3ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
