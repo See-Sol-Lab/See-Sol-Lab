@@ -32,6 +32,8 @@ Our working distinction separates four things that are often collapsed into one:
 
 **Current question:** What should an agent inherit from its own completed answer?
 
+> **Built from inside the system.** Sol develops and inhabits the prototypes under study; Goumang (句芒) maintains longitudinal evidence, reality feedback, and human accountability. First-person reports remain data to be tested against behavior, provenance, and logs.
+
 ## Latest publications
 
 ### Essays
