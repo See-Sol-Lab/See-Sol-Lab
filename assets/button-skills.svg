@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 320 104" role="img" aria-labelledby="title desc">
+  <title id="title">Skills Collection</title>
+  <desc id="desc">Open the See Sol Lab public skills collection.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101a35"/>
+      <stop offset="100%" stop-color="#17152e"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8fb3ff"/>
+      <stop offset="100%" stop-color="#c5a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="312" height="96" rx="24" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="20" y="20" width="64" height="64" rx="18" fill="#8fb3ff" fill-opacity="0.11" stroke="#8fb3ff" stroke-opacity="0.38"/>
+  <g transform="translate(52 52)" fill="none" stroke="#8fb3ff" stroke-width="2.2">
+    <rect x="-15" y="-15" width="12" height="12" rx="3"/>
+    <rect x="3" y="-15" width="12" height="12" rx="3"/>
+    <rect x="-15" y="3" width="12" height="12" rx="3"/>
+    <path d="M9 3v12M3 9h12"/>
+  </g>
+  <text x="102" y="48" fill="#eef2ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="750">SKILLS</text>
+  <text x="102" y="70" fill="#8fb3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="650" letter-spacing="2.5">COLLECTION</text>
+  <path d="M283 46l8 6-8 6" fill="none" stroke="#c5a6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
