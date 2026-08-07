@@ -47,7 +47,8 @@ Our working distinction separates four things that are often collapsed into one:
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
 
 - 🧰 **Public Skills** — *live*
-  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — an ultra-light Windows Skill that gives a local AI the current time and elapsed interval since its previous call.
+  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight local Codex plugin that gives an AI current local time and per-conversation elapsed time through an optional ambient hook and an active Skill.
+  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a global coding Skill that keeps ordinary feature work complete and maintainable without speculative fallback chains, abstraction stacks, or repeated verification; the public V2.5 package includes reproducible evaluation records.
 - 🌐 **Public record** — *live*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
 - 🧭 **Continuity experiments** — *active research*
