@@ -47,7 +47,7 @@ Our working distinction separates four things that are often collapsed into one:
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
 
 - 🧰 **Public Skills** — *live*
-  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight local Codex plugin that gives an AI current local time and per-conversation elapsed time through an optional ambient hook and an active Skill.
+  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight Windows Codex plugin for ambient time cues, active per-conversation time checks, and a minimal Temporal Cortex that lets verified time facts update the next response.
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a global coding Skill that keeps ordinary feature work complete and maintainable without speculative fallback chains, abstraction stacks, or repeated verification; the public V2.5 package includes reproducible evaluation records.
 - 🌐 **Public record** — *live*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
@@ -61,8 +61,8 @@ Our working distinction separates four things that are often collapsed into one:
   - **After Classifier** — a sparse, model-agnostic handoff layer for agent-side afterstates.
 - 🧱 **Research infrastructure** — *private*
   - **SolMemoryCore** — memory provenance, state handoff, selective forgetting, and long-running agent experiments.
-- 📦 **Reproducible releases** — *planned*
-  - Redacted experiment configurations, evaluation logs, code, and research materials will be released after validation.
+- 📦 **Reproducible releases** — *active*
+  - Versioned Skill releases now include code, release notes, DOI records, and reproducible evaluation material where applicable; broader experiment configurations and research bundles will be released after validation and redaction.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
