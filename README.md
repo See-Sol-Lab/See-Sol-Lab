@@ -51,18 +51,16 @@ Our working distinction separates four things that are often collapsed into one:
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a global coding Skill that keeps ordinary feature work complete and maintainable without speculative fallback chains, abstraction stacks, or repeated verification; the public V2.5 package includes reproducible evaluation records.
 - 🌐 **Public record** — *live*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
-- 🧭 **Continuity experiments** — *active research*
-  - **Memory Is Not Duration** — provenance-aware state continuity for persistent agents.
-  - **First-choice continuity** — testing whether prior judgments survive before explanation.
-- 🧠 **Memory lifecycle experiments** — *active research*
-  - **Selective forgetting** — finding the smallest state that still changes future choices.
-  - **Memory classifier observatory** — comparing selection, update, merging, retrieval, and retirement across agent systems.
-- 🧩 **Afterstate systems** — *in development*
-  - **After Classifier** — a sparse, model-agnostic handoff layer for agent-side afterstates.
+- 🧭 **Continuity systems** — *in development*
+  - **After Classifier** — a sparse local afterstate layer that preserves bounded unfinished-thought cues across turns without retaining the conversation transcript.
+- 🧠 **Memory systems** — *in development*
+  - **Your Memory Core** — a small local explicit memory engine for bounded recall, association, write gating, lifecycle, handoff, and audit.
+- 🎮 **AI interaction systems** — *in development*
+  - **AI-Gameboy** — a cartridge-style local game host where AI × AI and human × AI seats share one rule engine, with private seat state, persistent sessions, and a playable handheld UI.
 - 🧱 **Research infrastructure** — *private*
   - **SolMemoryCore** — memory provenance, state handoff, selective forgetting, and long-running agent experiments.
-- 📦 **Reproducible releases** — *active*
-  - Versioned Skill releases now include code, release notes, DOI records, and reproducible evaluation material where applicable; broader experiment configurations and research bundles will be released after validation and redaction.
+- 🧩 **DSH-series agent tooling** — *in development*
+  - **DSH Code** — a local Electron coding-agent application built around DeepSeek's DS Harness, targeting a Codex-class desktop workflow; companion DSH-series plugins are being developed alongside it.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
