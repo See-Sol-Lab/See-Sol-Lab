@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <strong>English</strong> | <a href="./README.zh.md">中文</a>
+</div>
+
+<div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
 
