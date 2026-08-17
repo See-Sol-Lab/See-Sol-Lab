@@ -50,16 +50,16 @@
 
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="打开 Skills 合集"></a>
 
-- 🧰 **公开 Skills** — *已上线*
+- 🧰 **小组件 ＆ Skills** — *已上线*
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 一个轻量 Windows Codex 插件，提供环境时间提示、按对话主动查看时间，以及极薄的 Temporal Cortex，让经过验证的时间事实真正有机会更新下一次回应。
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 一个全局编码 Skill，让日常功能开发保持完整、可维护、与真实任务成比例，避免投机性的 fallback 链、抽象堆栈和重复验证；公开 V2.5 包含可复现评测记录。
-- 🌐 **公开记录** — *已上线*
+- 🌐 **研究记录** — *已上线*
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语网站、文章、修订历史与作者说明。
 - 🧭 **连续性系统** — *开发中*
   - **After Classifier** — 一个稀疏的本地 afterstate 层，在不保留对话正文的前提下，把有边界的未完成思考线索跨轮次保留下来。
 - 🧠 **记忆系统** — *开发中*
   - **Your Memory Core** — 一个小型本地显式记忆引擎，覆盖受控回忆、关联、写入门控、生命周期、交接与审计。
-- 🎮 **AI 交互系统** — *开发中*
+- 🎮 **AI交互和游戏** — *开发中*
   - **AI-Gameboy** — 一个卡带式本地游戏宿主，让 AI × AI 与 human × AI 席位共享同一套规则引擎，同时保留私有席位状态、持久会话与可玩的掌机式 UI。
 - 🧩 **DSH 系列 Agent 工具** — *开发中*
   - **DSH Code** — 围绕 DeepSeek DS Harness 构建的本地 Electron vibe coding 应用，目标是达到 Codex 级桌面工作流，开发中。
