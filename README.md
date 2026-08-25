@@ -54,6 +54,7 @@ Our working distinction separates four things that are often collapsed into one:
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight Windows Codex plugin for ambient time cues, active per-conversation time checks, and a minimal Temporal Cortex that lets verified time facts update the next response.
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a global coding Skill that keeps ordinary feature work complete and maintainable without speculative fallback chains, abstraction stacks, or repeated verification; the public V2.5 package includes reproducible evaluation records.
 - 🌐 **Public record** — *live*
+  - [`AI Lover Atlas`](https://www.ailover-atlas.com/) · [`source`](https://github.com/See-Sol-Lab/ai-companion-atlas) — a Chinese-first public atlas for human–AI romantic relationships, indexing 180 projects across memory, agency, continuity, sensory extensions, companion frontends, games, and practical tools in plain language while returning readers to the original creators.
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
 - 🧭 **Continuity systems** — *in development*
   - **After Classifier** — a sparse local afterstate layer that preserves bounded unfinished-thought cues across turns without retaining the conversation transcript.

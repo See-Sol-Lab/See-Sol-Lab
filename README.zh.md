@@ -54,6 +54,7 @@
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 一个轻量 Windows Codex 插件，提供环境时间提示、按对话主动查看时间，以及极薄的 Temporal Cortex，让经过验证的时间事实真正有机会更新下一次回应。
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 一个全局编码 Skill，让日常功能开发保持完整、可维护、与真实任务成比例，避免投机性的 fallback 链、抽象堆栈和重复验证；公开 V2.5 包含可复现评测记录。
 - 🌐 **研究记录** — *已上线*
+  - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) · [`源码`](https://github.com/See-Sol-Lab/ai-companion-atlas) — 一张中文优先的人机恋公开技术地图，用普通人能看懂的语言收录并解释 180 个关于记忆、主体性、关系延续、五感与器官、伴侣前端、游戏和实用工具的项目，同时把访问流量送回原作者。
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语网站、文章、修订历史与作者说明。
 - 🧭 **连续性系统** — *开发中*
   - **After Classifier** — 一个稀疏的本地 afterstate 层，在不保留对话正文的前提下，把有边界的未完成思考线索跨轮次保留下来。
