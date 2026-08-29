@@ -62,8 +62,8 @@ Our working distinction separates four things that are often collapsed into one:
   - **Your Memory Core** — a small local explicit memory engine for bounded recall, association, write gating, lifecycle, handoff, and audit.
 - 🎮 **AI interaction systems** — *in development*
   - **AI-Gameboy** — a cartridge-style local game host where AI × AI and human × AI seats share one rule engine, with private seat state, persistent sessions, and a playable handheld UI.
-- 🧩 **DSH-series agent tooling** — *in development*
-  - **DeepCode** — a local Electron coding-agent application built around DeepSeek's DS Harness, targeting a Codex-class desktop workflow; companion DSH-series plugins are being developed alongside it.
+- 🧩 **DSH-series agent tooling** — *live*
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial Windows desktop workbench for DeepSeek Harness. [`v1.0.0`](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.0.0) ships a self-contained runtime, native Profile and Cordis Plugin support, DSH Terminal, browser tools, diagnostics, recovery, and updates.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">

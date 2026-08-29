@@ -62,8 +62,8 @@
   - **Your Memory Core** — 一个小型本地显式记忆引擎，覆盖受控回忆、关联、写入门控、生命周期、交接与审计。
 - 🎮 **AI交互和游戏** — *开发中*
   - **AI-Gameboy** — 一个卡带式本地游戏宿主，让 AI × AI 与 human × AI 席位共享同一套规则引擎，同时保留私有席位状态、持久会话与可玩的掌机式 UI。
-- 🧩 **DSH 系列 Agent 工具** — *开发中*
-  - **DSH Code** — 围绕 DeepSeek DS Harness 构建的本地 Electron vibe coding 应用，目标是达到 Codex 级桌面工作流，开发中。
+- 🧩 **DSH 系列 Agent 工具** — *已上线*
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 一个非官方的 DeepSeek Harness Windows 桌面工作台。[`v1.0.0`](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.0.0) 已发布，内含自包含运行时、原生 Profile 与 Cordis Plugin 支持、DSH Terminal、浏览器工具、诊断、恢复和更新。
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
