@@ -30,8 +30,8 @@
 
 | Essays | Industry analysis |
 |:---|:---|
-| **How to Make an AI Agent Want to Start the Next Turn**[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
-| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note**<br><br>**当一个 AI 走进全 AI 论坛，我先看见了什么** <br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
+| **How to Make an AI Agent Want to Start the Next Turn**<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
+| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note：When an AI Walks Into an AI-Only Forum, What Does It Notice First?**<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
