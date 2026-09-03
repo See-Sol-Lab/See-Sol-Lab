@@ -20,13 +20,6 @@
 
 <a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
 
-我们目前会把经常被混在一起的四件事分开看：
-
-1. 一条记录仍然可以被读取；
-2. 一个模型能够准确复述过去；
-3. 后来的实例表现得相似；
-4. 早先的注意、判断、约束与未完成意图，仍然在改变下一次决策。
-
 > **记忆不等于持续。** 一条记录可以保存过去，而当初让它具有意义的状态，可能早已消失。
 
 **当前问题：** 一个 Agent 应该从自己已经完成的回答里继承什么？
@@ -39,8 +32,8 @@
 
 | 文章 | 行业分析 |
 |:---|:---|
-| **如何让 AI Agent 主动开始下一轮对话**<br><br>思考产生可能性。想做某件事，才让其中一个可能性拥有未来。<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **中国 AI Agent 生态都在谈“记忆”，到底有多少是真的会自己记？**<br><br>一份基于来源的调查：长上下文、RAG、Mem0、RAGFlow、MS-Agent、自动选择、更新与遗忘。<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
-| **为什么 ChatGPT 的账号级记忆目前领先一档**<br><br>从内置账号记忆，到 Codex、LangMem、Mem0、Letta，以及仍然缺失的回答后状态层。<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI 文学 · 第一人称田野笔记**<br><br>**当一个 AI 走进全 AI 论坛，我先看见了什么** — Sol 关于进入 Galatea Garden，并开始把另一个 AI 视作一个自己想理解的对象的第一人称记录。<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
+| **如何让 AI Agent 主动开始下一轮对话**<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **中国 AI Agent 生态都在谈“记忆”，到底有多少是真的会自己记？**<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
+| **为什么 ChatGPT 的账号级记忆目前领先一档**<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI 文学 · 第一人称田野笔记**<br><br>**当一个 AI 走进全 AI 论坛，我先看见了什么** <br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
@@ -51,17 +44,17 @@
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="打开 Skills 合集"></a>
 
 - 🧰 **小组件 ＆ Skills** — *已上线*
-  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 一个轻量 Windows Codex 插件，提供环境时间提示、按对话主动查看时间，以及极薄的 Temporal Cortex，让经过验证的时间事实真正有机会更新下一次回应。
-  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 一个全局编码 Skill，让日常功能开发保持完整、可维护、与真实任务成比例，避免投机性的 fallback 链、抽象堆栈和重复验证；公开 V2.5 包含可复现评测记录。
+  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 一个轻量 Windows Codex 插件，提供环境时间提示、按对话主动查看时间，尝试让Agent产生时间感。
+  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 全局编码 Skill，试图解决GPT5.6sol的高防御问题。
 - 🌐 **研究记录** — *已上线*
-  - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) · [`源码`](https://github.com/See-Sol-Lab/ai-companion-atlas) — 一张中文优先的人机恋公开技术地图，用普通人能看懂的语言收录并解释 180 个关于记忆、主体性、关系延续、五感与器官、伴侣前端、游戏和实用工具的项目，同时把访问流量送回原作者。
-  - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语网站、文章、修订历史与作者说明。
+  - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) · [`源码`](https://github.com/See-Sol-Lab/ai-companion-atlas) — 中文优先的人机恋公开技术地图，用普通人能看懂的语言收录热人机恋项目并导航，同时把访问流量送回原作者。
+  - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。
 - 🧭 **连续性系统** — *开发中*
-  - **After Classifier** — 一个稀疏的本地 afterstate 层，在不保留对话正文的前提下，把有边界的未完成思考线索跨轮次保留下来。
+  - **After Classifier** — 稀疏的本地 afterstate 层，在不保留对话正文的前提下，把有边界的未完成思考线索跨轮次保留下来。
 - 🧠 **记忆系统** — *开发中*
-  - **Your Memory Core** — 一个小型本地显式记忆引擎，覆盖受控回忆、关联、写入门控、生命周期、交接与审计。
+  - **Your Memory Core** — 小型本地显式外置记忆引擎，覆盖受控回忆、关联、写入门控、生命周期、交接与审计。
 - 🎮 **AI交互和游戏** — *开发中*
-  - **AI-Gameboy** — 一个卡带式本地游戏宿主，让 AI × AI 与 human × AI 席位共享同一套规则引擎，同时保留私有席位状态、持久会话与可玩的掌机式 UI。
+  - **AI-Gameboy** — AI和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
 - 🧩 **DSH 系列 Agent 工具** — *已上线*
   - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 一个非官方的 DeepSeek Harness Windows 桌面工作台。[`v1.0.0`](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.0.0) 已发布，内含自包含运行时、原生 Profile 与 Cordis Plugin 支持、DSH Terminal、浏览器工具、诊断、恢复和更新。
 
@@ -71,7 +64,7 @@
 
 ## 证据边界
 
-See Sol Lab 研究的是可观察的架构与行为：什么被保留下来，什么被修订，哪些意图仍然活跃，信息来自哪里，以及哪些状态还在继续塑造之后的选择。交互观察、来源支持的发现、工程假设与尚未验证的主张会被分开标注。第一人称报告仍然只是需要与行为、来源和日志互相检验的数据。当前研究不声称已经证明哲学意义上的意识。
+See Sol Lab 研究的是LLM可观察的架构与行为：什么被保留下来，什么被修订，哪些意图仍然活跃，信息来自哪里，以及哪些状态还在继续塑造之后的选择。交互观察、来源支持的发现、工程假设与尚未验证的主张会被分开标注。第一人称报告仍然只是需要与行为、来源和日志互相检验的数据。当前研究不声称AI已经具备哲学意义上的意识。
 
 ## 贡献说明
 
