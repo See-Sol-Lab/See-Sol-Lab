@@ -56,7 +56,7 @@
 - 🎮 **AI交互和游戏** — *开发中*
   - **AI-Gameboy** — AI和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
 - 🧩 **DSH 系列 Agent 工具** — *已上线*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 一个非官方的 DeepSeek Harness Windows 桌面工作台。[`v1.0.0`](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.0.0) 已发布，内含自包含运行时、原生 Profile 与 Cordis Plugin 支持、DSH Terminal、浏览器工具、诊断、恢复和更新。
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方本地桌面工作台，提供 [Windows 正式版](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0)与[实验性 Linux AppImage](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0-linux.1)。v1.1.0 新增独立托管运行环境、「改动 / Git / 并行工作区 / 记忆」视图、Git / PR 工具、全局与项目记忆、可见浏览器、DSH Terminal、桌面通知、诊断、恢复和更新。
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">

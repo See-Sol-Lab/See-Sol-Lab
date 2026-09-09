@@ -54,7 +54,7 @@
 - 🎮 **AI interaction systems** — *in development*
   - **AI-Gameboy** — a cartridge-style local game host where AI × AI and human × AI seats share one rule engine, with private seat state, persistent sessions, and a playable handheld UI.
 - 🧩 **DSH-series agent tooling** — *live*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial Windows desktop workbench for DeepSeek Harness. [`v1.0.0`](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.0.0) ships a self-contained runtime, native Profile and Cordis Plugin support, DSH Terminal, browser tools, diagnostics, recovery, and updates.
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial local desktop workbench for DeepSeek Harness, with a [Windows release](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0) and an [experimental Linux AppImage](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0-linux.1). v1.1.0 adds an isolated managed runtime, Changes / Git / Worktrees / Memory views, dedicated Git and PR tools, global and project memory, a visible browser, DSH Terminal, desktop notifications, diagnostics, recovery, and updates.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
