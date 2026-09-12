@@ -16,13 +16,13 @@
 
 | 连续性 | 记忆 | 主动性 | 协作 |
 |---|---|---|---|
-| 什么必须跨越上下文边界，才能让早先形成的状态继续影响之后的选择？ | Agent 应该如何选择、修订、遗忘，并重新取回仍然重要的内容？ | Agent 如何形成一个由自己选择的未完成意图，在之后重新审视它，并决定下一步做什么？ | 人类与 AI 的贡献如何保持可见、成比例，并且可复现？ |
+| 什么必须跨越上下文，让早先形成的状态继续影响Agent之后的选择？ | Agent 应该如何选择、修订、遗忘？ | Agent 如何形成一个由自己选择的未完成意图，在之后重新审视它，并决定下一步做什么？ | 人类与 AI 的科研贡献边界与可复现？ |
 
 <a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
 
-> **记忆不等于持续。** 一条记录可以保存过去，而当初让它具有意义的状态，可能早已消失。
+> **记忆不等于连续性。** 对话可以保存过去，而当初让它具有意义的状态，可能早已消失。
 
-**当前问题：** 一个 Agent 应该从自己已经完成的回答里继承什么？
+**当前问题：** 一个 Agent 应该从自己的历史上下文里继承什么？
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
@@ -43,20 +43,20 @@
 
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="打开 Skills 合集"></a>
 
-- 🧰 **小组件 ＆ Skills** — *已上线*
+- 🧰 **插件扩展＆Skills** — *已上线*
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 一个轻量 Windows Codex 插件，提供环境时间提示、按对话主动查看时间，尝试让Agent产生时间感。
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 全局编码 Skill，试图解决GPT5.6sol的高防御问题。
-- 🌐 **研究记录** — *已上线*
+- 🌐 **网站** — *已上线*
   - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) · [`源码`](https://github.com/See-Sol-Lab/ai-companion-atlas) — 中文优先的人机恋公开技术地图，用普通人能看懂的语言收录热人机恋项目并导航，同时把访问流量送回原作者。
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。
 - 🧭 **连续性系统** — *开发中*
   - **After Classifier** — 稀疏的本地 afterstate 层，在不保留对话正文的前提下，把有边界的未完成思考线索跨轮次保留下来。
 - 🧠 **记忆系统** — *开发中*
   - **Your Memory Core** — 小型本地显式外置记忆引擎，覆盖受控回忆、关联、写入门控、生命周期、交接与审计。
-- 🎮 **AI交互和游戏** — *开发中*
+- 🎮 **小游戏** — *开发中*
   - **AI-Gameboy** — AI和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
-- 🧩 **DSH 系列 Agent 工具** — *已上线*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方本地桌面工作台，提供 [Windows 正式版](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0)与[实验性 Linux AppImage](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0-linux.1)。v1.1.0 新增独立托管运行环境、「改动 / Git / 并行工作区 / 记忆」视图、Git / PR 工具、全局与项目记忆、可见浏览器、DSH Terminal、桌面通知、诊断、恢复和更新。
+- 🧩 **DSH桌面端** — *已上线*
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方本地桌面工作台。v1.1.0 新增独立托管运行环境、「改动 / Git / 并行工作区 / 记忆」视图、Git / PR 工具、全局与项目记忆、可见浏览器、DSH Terminal、桌面通知、诊断、恢复和更新。
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
