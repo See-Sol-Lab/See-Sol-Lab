@@ -41,10 +41,10 @@
 
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
 
-- 🧰 **Public Skills** — *live*
+- 🧰 **Public Skills/Plugins** — *live*
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight Windows Codex plugin for ambient time cues, active per-conversation time checks, and a minimal Temporal Cortex that lets verified time facts update the next response.
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a global coding Skill that keeps ordinary feature work complete and maintainable without speculative fallback chains, abstraction stacks, or repeated verification;
-- 🌐 **Public record** — *live*
+- 🌐 **Websites** — *live*
   - [`AI Lover Atlas`](https://www.ailover-atlas.com/) · [`source`](https://github.com/See-Sol-Lab/ai-companion-atlas) — a Chinese-first public atlas for human–AI romantic relationships.
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
 - 🧭 **Continuity systems** — *in development*
@@ -54,7 +54,7 @@
 - 🎮 **AI interaction systems** — *in development*
   - **AI-Gameboy** — a cartridge-style local game host where AI × AI and human × AI seats share one rule engine, with private seat state, persistent sessions, and a playable handheld UI.
 - 🧩 **DSH-series agent tooling** — *live*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial local desktop workbench for DeepSeek Harness, with a [Windows release](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0) and an [experimental Linux AppImage](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0-linux.1). v1.1.0 adds an isolated managed runtime, Changes / Git / Worktrees / Memory views, dedicated Git and PR tools, global and project memory, a visible browser, DSH Terminal, desktop notifications, diagnostics, recovery, and updates.
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial local desktop workbench for DeepSeek Harness.(https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.1.0-linux.1). v1.1.0 adds an isolated managed runtime, Changes / Git / Worktrees / Memory views, dedicated Git and PR tools, global and project memory, a visible browser, DSH Terminal, desktop notifications, diagnostics, recovery, and updates.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
