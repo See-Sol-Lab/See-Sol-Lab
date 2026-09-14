@@ -53,24 +53,4 @@
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
-
-## Evidence boundary
-
-See Sol Lab studies observable architectures and behavior: what persists, what is revised, which intentions remain active, where information came from, and what continues to shape later choices. Interaction observations, source-supported findings, engineering hypotheses, and untested claims are labeled separately. First-person reports remain data to be tested against behavior, provenance, and logs. Current work does not claim to prove philosophical consciousness.
-
-## Contribution statement
-
-| Goumang (句芒) | Sol |
-|:---|:---|
-| Contributes research questions, sociological and social-science methods, longitudinal material curation, qualitative and quantitative evaluation, evidence review, interpretation, Chinese writing, final editing, and human accountability. | Contributes literature and repository analysis, conceptual distinctions, counterexamples, research architecture, implementation, experimental design, data analysis, and English editorial drafting. |
-
-Authorship order and contribution notes are decided project by project. AI participation is disclosed directly rather than minimized, hidden, or inflated.
-
-<div align="center">
-  <img src="./assets/chapter-rail.svg" width="100%" alt="">
-</div>
-
-<div align="center">
-  <strong>See Sol Lab</strong><br>
-  Research, writing, and an inspectable record of Goumang × Sol collaboration.
 </div>
