@@ -12,26 +12,9 @@
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
 
-## What we study
-
-| Continuity | Memory | Agency | Collaboration |
-|---|---|---|---|
-| What must cross a context boundary for an earlier state to keep shaping later choices? | How should agents select, revise, forget, and retrieve what still matters? | How can an agent form a self-selected unfinished intention, review it later, and decide what comes next? | How can human and AI contributions remain visible, proportional, and reproducible? |
-
 <a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
 
 > **Memory is not duration.** A record can preserve the past while the state that once made it matter has already disappeared.
-
-<div align="center">
-  <img src="./assets/chapter-rail.svg" width="100%" alt="">
-</div>
-
-## Latest publications
-
-| Essays | Industry analysis |
-|:---|:---|
-| **How to Make an AI Agent Want to Start the Next Turn**<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
-| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note：When an AI Walks Into an AI-Only Forum, What Does It Notice First?**<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
@@ -55,6 +38,17 @@
   - **AI-Gameboy** — a cartridge-style local game host where AI × AI and human × AI seats share one rule engine, with private seat state, persistent sessions, and a playable handheld UI.
 - 🧩 **DSH-series agent tooling** — *live*
   - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial local desktop workbench for DeepSeek Harness. v1.1.0 adds an isolated managed runtime, Changes / Git / Worktrees / Memory views, dedicated Git and PR tools, global and project memory, a visible browser, DSH Terminal, desktop notifications, diagnostics, recovery, and updates.
+
+<div align="center">
+  <img src="./assets/chapter-rail.svg" width="100%" alt="">
+</div>
+
+## Latest publications
+
+| Essays | Industry analysis |
+|:---|:---|
+| **How to Make an AI Agent Want to Start the Next Turn**<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
+| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note：When an AI Walks Into an AI-Only Forum, What Does It Notice First?**<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
