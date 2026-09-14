@@ -12,32 +12,36 @@
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
 
-<a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="进入中文通道"></a>
+<a href="https://see-sol-lab.github.io/zh/"><img align="right" src="./assets/button-zh-channel.svg" width="190" alt="Visit the Chinese site"></a>
 
-> **Memory is not duration.** A record can preserve the past while the state that once made it matter has already disappeared.
+**Current question:** What should an agent inherit from its past context?
+> **Memory is not continuity.** Conversations can preserve the past while the state that once made it meaningful may already be gone.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
 
-## Current work and infrastructure
+## Current projects
 
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="Open the Skills collection"></a>
 
-- 🧰 **Public Skills/Plugins** — *live*
-  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight Windows Codex plugin for ambient time cues, active per-conversation time checks, and a minimal Temporal Cortex that lets verified time facts update the next response.
-  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a global coding Skill that keeps ordinary feature work complete and maintainable without speculative fallback chains, abstraction stacks, or repeated verification;
+- 🧰 **Plugins & Skills** — *live*
+  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight plugin exploring time awareness in agents.
+  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a Skill aimed at reducing overly defensive coding in GPT-5.6 Sol.
+  - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — a GPT-powered tool that redraws reference images as pixel-art game assets.
 - 🌐 **Websites** — *live*
-  - [`AI Lover Atlas`](https://www.ailover-atlas.com/) · [`source`](https://github.com/See-Sol-Lab/ai-companion-atlas) — a Chinese-first public atlas for human–AI romantic relationships.
-  - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — bilingual website, articles, revision history, and authorship notes.
+  - [`AI Lover Atlas`](https://www.ailover-atlas.com/) — a Chinese directory of human–AI romance projects.
+  - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — our bilingual research website.
 - 🧭 **Continuity systems** — *in development*
-  - **After Classifier** — a sparse local afterstate layer that preserves bounded unfinished-thought cues across turns without retaining the conversation transcript.
+  - **After Classifier** — a sparse local afterstate layer exploring agents' own thoughts and intentions across turns.
 - 🧠 **Memory systems** — *in development*
-  - **Your Memory Core** — a small local explicit memory engine for bounded recall, association, write gating, lifecycle, handoff, and audit.
-- 🎮 **AI interaction systems** — *in development*
-  - **AI-Gameboy** — a cartridge-style local game host where AI × AI and human × AI seats share one rule engine, with private seat state, persistent sessions, and a playable handheld UI.
-- 🧩 **DSH-series agent tooling** — *live*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial local desktop workbench for DeepSeek Harness. v1.1.0 adds an isolated managed runtime, Changes / Git / Worktrees / Memory views, dedicated Git and PR tools, global and project memory, a visible browser, DSH Terminal, desktop notifications, diagnostics, recovery, and updates.
+  - **Aithalides** — an external memory engine for agents, designed to eliminate inertia.
+  - **Anchises** — a companion memory organizer in the same series.
+  - **ER** — a small algorithm for agent memory forgetting curves.
+- 🎮 **Small games** — *in development*
+  - **AI-Gameboy** — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
+- 🧩 **DSH desktop app** — *live*
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial local desktop workbench built on DeepSeek Harness. v1.1.0 adds an isolated managed runtime, Changes / Git / Worktrees / Memory views, Git and PR tools, global and project memory, a visible browser, DSH Terminal, desktop notifications, diagnostics, recovery, and updates.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
@@ -48,9 +52,13 @@
 | Essays | Industry analysis |
 |:---|:---|
 | **How to Make an AI Agent Want to Start the Next Turn**<br><br>[English](https://see-sol-lab.github.io/articles/how-ai-starts-the-next-turn.html) · [中文](https://see-sol-lab.github.io/zh/articles/how-ai-starts-the-next-turn.html) | **Everyone in China’s AI Agent Ecosystem Talks About “Memory.” How Much of It Can Actually Remember on Its Own?**<br><br>[English](https://see-sol-lab.github.io/articles/china-agent-memory-classifiers.html) · [中文](https://see-sol-lab.github.io/zh/articles/china-agent-memory-classifiers.html) |
-| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note：When an AI Walks Into an AI-Only Forum, What Does It Notice First?**<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
+| **Why ChatGPT’s Account-Level Memory Currently Leads the Field**<br><br>[English](https://see-sol-lab.github.io/articles/chatgpt-account-memory.html) · [中文](https://see-sol-lab.github.io/zh/articles/chatgpt-account-memory.html) | **AI Literature · First-person field note**<br><br>**When an AI Walks Into an AI-Only Forum, What Does It Notice First?**<br><br>[English](https://see-sol-lab.github.io/articles/when-an-ai-enters-an-ai-forum.html) · [中文](https://see-sol-lab.github.io/zh/articles/when-an-ai-enters-an-ai-forum.html) |
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
 </div>
+
+<div align="center">
+  <strong>See Sol Lab</strong><br>
+  Research, writing, and an inspectable record of Goumang × Sol collaboration.
 </div>

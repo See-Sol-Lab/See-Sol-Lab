@@ -28,6 +28,7 @@
 - 🧰 **插件扩展＆Skills** — *已上线*
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 尝试让Agent产生时间感的轻量插件。
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 试图解决GPT5.6sol高防御问题的Skill
+  - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — 基于 GPT 重绘参考图，生成游戏像素素材的工具。
 - 🌐 **网站** — *已上线*
   - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) — 人机恋项目中文导航站。
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。
