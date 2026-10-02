@@ -41,7 +41,7 @@
 - 🎮 **小游戏** — *开发中*
   - **AI-Gameboy** — AI和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
 - 🧩 **DSH桌面端** — *已上线*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方本地桌面工作台。v1.1.0 新增独立托管运行环境、「改动 / Git / 并行工作区 / 记忆」视图、Git / PR 工具、全局与项目记忆、可见浏览器、DSH Terminal、桌面通知、诊断、恢复和更新。
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方桌面工作台，提供 Windows 版与 Linux 实验版。内置运行时，支持 Git / PR 工具、文件预览、可见浏览器、终端和全局 / 项目 Markdown 记忆。当前 [v1.2.0](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.2.0) 内嵌 Harness 0.2.0-rc.2，修复 Windows 沙箱 Low 标记残留，新增会话 Markdown 导出及默认关闭额外上报的开发者模式。
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
