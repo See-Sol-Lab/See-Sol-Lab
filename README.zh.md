@@ -40,7 +40,7 @@
   - **ER** — Agent记忆遗忘曲线，小算法。
 - 🎮 **小游戏** — *开发中*
   - **AI-Gameboy** — AI和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
-- 🧩 **DSH桌面端** — *已上线*
+- 🧩 **桌面应用** — *已上线*
   - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方桌面工作台，提供 Windows 版与 Linux 实验版。内置运行时，支持 Git / PR 工具、文件预览、可见浏览器、终端和全局 / 项目 Markdown 记忆。当前 [v1.2.0](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.2.0) 内嵌 Harness 0.2.0-rc.2，修复 Windows 沙箱 Low 标记残留，新增会话 Markdown 导出及默认关闭额外上报的开发者模式。
 
 <div align="center">
