@@ -40,7 +40,7 @@
   - **ER** — a small algorithm for agent memory forgetting curves.
 - 🎮 **Small games** — *in development*
   - **AI-Gameboy** — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
-- 🧩 **DSH desktop app** — *live*
+- 🧩 **Desktop App** — *live*
   - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial desktop workbench built on DeepSeek Harness, available for Windows and experimentally for Linux. It bundles its runtime and provides Git / PR tools, file previews, a visible browser, a terminal, and global / project Markdown memory. Current release [v1.2.0](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.2.0) embeds Harness 0.2.0-rc.2, fixes lingering Windows sandbox Low marks, and adds Markdown session export and Developer mode with extra reporting off by default.
 
 <div align="center">
