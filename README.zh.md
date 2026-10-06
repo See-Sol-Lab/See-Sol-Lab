@@ -26,22 +26,24 @@
 <a href="./SKILLS.md#public-releases"><img align="right" src="./assets/button-skills.svg" width="190" alt="打开 Skills 合集"></a>
 
 - 🧰 **插件扩展＆Skills** — *已上线*
-  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 尝试让Agent产生时间感的轻量插件。
-  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 试图解决GPT5.6sol高防御问题的Skill
-  - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — 基于 GPT 重绘参考图，生成游戏像素素材的工具。
+  - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 尝试让 Agent 产生时间感的轻量插件。
+  - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 试图缓解 GPT-5.6 Sol 过度防御式编码倾向的 Skill。
+  - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — 基于 GPT 重绘参考图、生成游戏像素素材的工具。
 - 🌐 **网站** — *已上线*
   - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) — 人机恋项目中文导航站。
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。
-- 🧭 **连续性系统** — *开发中*
-  - **After Classifier** — 稀疏的本地 afterstate 层，尝试让Agent产生自有念头与跨轮次意图。
-- 🧠 **记忆系统** — *开发中*
-  - **Aithalides** — Agent外置记忆引擎，彻底解决惰性问题。
-  - **Anchises** — 同系列的记忆整理器。
-  - **ER** — Agent记忆遗忘曲线，小算法。
+- 🪐 **AIset · 人机关系与情感陪伴 Agent 技术栈** — *开发中*
+  - **AIset** — 面向长期情感陪伴 Agent 的关系奖励、评估与训练框架。
+  - **After Classifier** — 稀疏 afterstate 层，用于承接 Agent 跨轮次的自有念头与意图。
+  - **Aithalides** — 带来源追溯的 Agent 外置长期记忆引擎。
+  - **Anchises** — 负责主题聚类、时间线、人物 / 项目档案与未竟事项的记忆整理层。
+  - **Er** — 负责衰减、再巩固、裁剪与随时间降低相关性的遗忘 / 沉降层。
+  - **Ren** — 负责持续自我、人格变化、版本冲突与合并的身份连续性层。
 - 🎮 **小游戏** — *开发中*
-  - **AI-Gameboy** — AI和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
-- 🧩 **桌面应用** — *已上线*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — 基于 DeepSeek Harness 的非官方桌面工作台，提供 Windows 版与 Linux 实验版。内置运行时，支持 Git / PR 工具、文件预览、可见浏览器、终端和全局 / 项目 Markdown 记忆。当前 [v1.2.0](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.2.0) 内嵌 Harness 0.2.0-rc.2，修复 Windows 沙箱 Low 标记残留，新增会话 Markdown 导出及默认关闭额外上报的开发者模式。
+  - **AI-Gameboy** — AI 和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
+- 🧩 **桌面应用**
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *已上线* · 基于 DeepSeek Harness 的非官方桌面工作台，支持 Windows 与实验性 Linux，内置运行时、Git / PR、浏览器、终端和会话导出。
+  - **Priest** — *开发中* · 本地优先的桌面情感陪伴 Agent，具备持续身份、记忆、主动联系、可替换模型与用户自持有的本地数据。
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
