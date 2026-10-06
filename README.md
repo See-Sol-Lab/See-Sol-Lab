@@ -32,16 +32,18 @@
 - 🌐 **Websites** — *live*
   - [`AI Lover Atlas`](https://www.ailover-atlas.com/) — a Chinese directory of human–AI romance projects.
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — our bilingual research website.
-- 🧭 **Continuity systems** — *in development*
-  - **After Classifier** — a sparse local afterstate layer exploring agents' own thoughts and intentions across turns.
-- 🧠 **Memory systems** — *in development*
-  - **Aithalides** — an external memory engine for agents, designed to eliminate inertia.
-  - **Anchises** — a companion memory organizer in the same series.
-  - **ER** — a small algorithm for agent memory forgetting curves.
+- 🪐 **AIset · human–AI relationships & companion-agent stack** — *in development*
+  - **AIset** — a relational reward, evaluation, and training framework for long-term companion agents.
+  - **After Classifier** — a sparse afterstate layer for agents' own thoughts and intentions across turns.
+  - **Aithalides** — a source-grounded external memory engine for long-term agent memory.
+  - **Anchises** — a memory organizer for clustering, timelines, people / projects, and unfinished threads.
+  - **Er** — a forgetting and settling layer for decay, reconsolidation, pruning, and relevance loss over time.
+  - **Ren** — an identity-continuity layer for persistent selfhood, personality change, conflict, and merge across versions.
 - 🎮 **Small games** — *in development*
   - **AI-Gameboy** — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
-- 🧩 **Desktop App** — *live*
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial desktop workbench built on DeepSeek Harness, available for Windows and experimentally for Linux. It bundles its runtime and provides Git / PR tools, file previews, a visible browser, a terminal, and global / project Markdown memory. Current release [v1.2.0](https://github.com/See-Sol-Lab/DeepSeekGUI/releases/tag/v1.2.0) embeds Harness 0.2.0-rc.2, fixes lingering Windows sandbox Low marks, and adds Markdown session export and Developer mode with extra reporting off by default.
+- 🧩 **Desktop Apps**
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *live* · an unofficial DeepSeek Harness desktop workbench for Windows and experimental Linux, with a bundled runtime, Git / PR tools, browser, terminal, and session export.
+  - **Priest** — *in development* · a local-first desktop companion agent with persistent identity, memory, proactive contact, replaceable models, and user-owned local data.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
