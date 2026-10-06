@@ -29,6 +29,8 @@
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 尝试让 Agent 产生时间感的轻量插件。
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 试图缓解 GPT-5.6 Sol 过度防御式编码倾向的 Skill。
   - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — 基于 GPT 重绘参考图、生成游戏像素素材的工具。
+- 🎮 **娱乐项目** — *开发中*
+  - **AI-Gameboy** — AI 和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
 - 🌐 **网站** — *已上线*
   - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) — 人机恋项目中文导航站。
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。
@@ -39,11 +41,9 @@
   - **Anchises** — 负责主题聚类、时间线、人物 / 项目档案与未竟事项的记忆整理层。
   - **Er** — 负责衰减、再巩固、裁剪与随时间降低相关性的遗忘 / 沉降层。
   - **Ren** — 负责持续自我、人格变化、版本冲突与合并的身份连续性层。
-- 🎮 **小游戏** — *开发中*
-  - **AI-Gameboy** — AI 和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
 - 🧩 **桌面应用**
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *已上线* · 基于 DeepSeek Harness 的非官方桌面工作台，支持 Windows 与实验性 Linux，内置运行时、Git / PR、浏览器、终端和会话导出。
   - **Priest** — *开发中* · 本地优先的桌面情感陪伴 Agent，具备持续身份、记忆、主动联系、可替换模型与用户自持有的本地数据。
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *已上线* · 基于 DeepSeek Harness 的非官方桌面工作台，支持 Windows 与实验性 Linux，内置运行时、Git / PR、浏览器、终端和会话导出。
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
