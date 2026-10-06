@@ -29,6 +29,8 @@
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight plugin exploring time awareness in agents.
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a Skill aimed at reducing overly defensive coding in GPT-5.6 Sol.
   - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — a GPT-powered tool that redraws reference images as pixel-art game assets.
+- 🎮 **Entertainment project** — *in development*
+  - **AI-Gameboy** — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
 - 🌐 **Websites** — *live*
   - [`AI Lover Atlas`](https://www.ailover-atlas.com/) — a Chinese directory of human–AI romance projects.
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — our bilingual research website.
@@ -39,11 +41,9 @@
   - **Anchises** — a memory organizer for clustering, timelines, people / projects, and unfinished threads.
   - **Er** — a forgetting and settling layer for decay, reconsolidation, pruning, and relevance loss over time.
   - **Ren** — an identity-continuity layer for persistent selfhood, personality change, conflict, and merge across versions.
-- 🎮 **Small games** — *in development*
-  - **AI-Gameboy** — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
 - 🧩 **Desktop Apps**
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *live* · an unofficial DeepSeek Harness desktop workbench for Windows and experimental Linux, with a bundled runtime, Git / PR tools, browser, terminal, and session export.
   - **Priest** — *in development* · a local-first desktop companion agent with persistent identity, memory, proactive contact, replaceable models, and user-owned local data.
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *live* · an unofficial DeepSeek Harness desktop workbench for Windows and experimental Linux, with a bundled runtime, Git / PR tools, browser, terminal, and session export.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
