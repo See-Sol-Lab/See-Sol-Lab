@@ -31,7 +31,7 @@
   - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — 基于 GPT 重绘参考图、生成游戏像素素材的工具。
   - `DSH-QoL` — DSH 生活质量包：给 DeepSeek Harness 官方桌面端补上 DeepSeekGUI 里好用功能的插件。
 - 🎮 **娱乐项目** — *已上线*
-  - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — AI 和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
+  - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — AI 和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。 · [DOI](https://doi.org/10.5281/zenodo.23481737)
 - 🌐 **网站** — *已上线*
   - [`AI Lover Atlas · 人机恋项目图谱`](https://www.ailover-atlas.com/) — 人机恋项目中文导航站。
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。

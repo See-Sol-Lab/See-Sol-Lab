@@ -31,7 +31,7 @@
   - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — a GPT-powered tool that redraws reference images as pixel-art game assets.
   - `DSH-QoL` — a quality-of-life plugin pack for the official DeepSeek Harness desktop app, carrying over features from DeepSeekGUI.
 - 🎮 **Entertainment project** — *live*
-  - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
+  - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones. · [DOI](https://doi.org/10.5281/zenodo.23481737)
 - 🌐 **Websites** — *live*
   - [`AI Lover Atlas`](https://www.ailover-atlas.com/) — a Chinese directory of human–AI romance projects.
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — our bilingual research website.
