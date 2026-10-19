@@ -28,7 +28,7 @@
 - 🧰 **Plugins & Skills** — *live*
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight plugin exploring time awareness in agents.
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a Skill aimed at reducing overly defensive coding in GPT-5.6 Sol.
-  - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — a GPT-powered tool that redraws reference images as pixel-art game assets.
+  - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — a GPT-powered tool that redraws reference images as pixel-art game assets. · [DOI](https://doi.org/10.5281/zenodo.23481811)
   - `DSH-QoL` — a quality-of-life plugin pack for the official DeepSeek Harness desktop app, carrying over features from DeepSeekGUI.
 - 🎮 **Entertainment project** — *live*
   - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones. · [DOI](https://doi.org/10.5281/zenodo.23481737)
