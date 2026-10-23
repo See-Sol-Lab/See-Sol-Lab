@@ -29,7 +29,7 @@
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — 尝试让 Agent 产生时间感的轻量插件。
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — 试图缓解 GPT-5.6 Sol 过度防御式编码倾向的 Skill。
   - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — 基于 GPT 重绘参考图、生成游戏像素素材的工具。
-  - `DSH-QoL` — DSH 生活质量包：给 DSH 官方桌面端补上 DeepSeekGUI 里好用功能的插件集成包。
+  - [`DSH-QoL`](https://github.com/See-Sol-Lab/DSH-QoL) — DSH 生活质量包：给 DSH 官方桌面端补上 DeepSeekGUI 里好用功能的插件集成包。
 - 🎮 **娱乐项目** — *已上线*
   - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — AI 和人类一起玩的本地掌机，自带卡带和开发卡带的游戏生态。
 - 🌐 **网站** — *已上线*
