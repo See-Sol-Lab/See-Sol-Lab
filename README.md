@@ -29,7 +29,6 @@
   - [`ai-companion-time-anchor`](https://github.com/See-Sol-Lab/ai-companion-time-anchor) — a lightweight plugin exploring time awareness in agents.
   - [`private-house-code-v2.5`](https://github.com/See-Sol-Lab/private-house-code-v2.5) — a Skill aimed at reducing overly defensive coding in GPT-5.6 Sol.
   - [`Picxel`](https://github.com/See-Sol-Lab/Picxel) — a GPT-powered tool that redraws reference images as pixel-art game assets.
-  - [`DSH-QoL`](https://github.com/See-Sol-Lab/DSH-QoL) — a quality-of-life plugin pack for the official DeepSeek Harness desktop app, carrying over features from DeepSeekGUI.
 - 🎮 **Entertainment project** — *live*
   - [`AI-Gameboy`](https://github.com/See-Sol-Lab/AI-Gameboy) — a local handheld for AI and humans to play together, with cartridges and an ecosystem for making new ones.
 - 🌐 **Websites** — *live*
@@ -42,9 +41,10 @@
   - **Anchises** — a memory organizer for clustering, timelines, people / projects, and unfinished threads.
   - **Er** — a forgetting and settling layer for decay, reconsolidation, pruning, and relevance loss over time.
   - **Ren** — an identity-continuity layer for persistent selfhood, personality change, conflict, and merge across versions.
-- 🧩 **Desktop Apps**
-  - **Priest** — *in development* · a local-first desktop companion agent with persistent identity, memory, proactive contact, replaceable models, and user-owned local data.
-  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — *live* · an unofficial DeepSeek Harness desktop workbench for Windows and experimental Linux, with a bundled runtime, Git / PR tools, browser, terminal, and session export.
+  - **Priest** — *in development* · an integrated local-first desktop companion agent built on the AIset stack.
+- 🧩 **DeepSeek Harness ecosystem** — *live*
+  - [`DeepSeekGUI`](https://github.com/See-Sol-Lab/DeepSeekGUI) — an unofficial DeepSeek Harness desktop workbench for Windows and experimental Linux, with a bundled runtime, Git / PR tools, browser, terminal, and session export.
+  - [`DSH-QoL`](https://github.com/See-Sol-Lab/DSH-QoL) — a quality-of-life plugin pack for the official DeepSeek Harness desktop app, carrying over features from DeepSeekGUI.
 
 <div align="center">
   <img src="./assets/chapter-rail.svg" width="100%" alt="">
