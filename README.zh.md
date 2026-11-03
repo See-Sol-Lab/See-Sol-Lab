@@ -36,7 +36,6 @@
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — 双语科研主页。
 - 🪐 **AIset · 人机关系与情感陪伴 Agent 技术栈** — *开发中*
   - **AIset** — 面向长期情感陪伴 Agent 的关系奖励、评估与训练框架。
-  - **After Classifier** — 稀疏 afterstate 层，用于承接 Agent 跨轮次的自有念头与意图。
   - **Aithalides** — 带来源追溯的 Agent 外置长期记忆引擎。
   - **Anchises** — 负责主题聚类、时间线、人物 / 项目档案与未竟事项的记忆整理层。
   - **Er** — 负责衰减、再巩固、裁剪与随时间降低相关性的遗忘 / 沉降层。
