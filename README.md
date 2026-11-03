@@ -36,7 +36,6 @@
   - [`see-sol-lab.github.io`](https://github.com/See-Sol-Lab/see-sol-lab.github.io) — our bilingual research website.
 - 🪐 **AIset · human–AI relationships & companion-agent stack** — *in development*
   - **AIset** — a relational reward, evaluation, and training framework for long-term companion agents.
-  - **After Classifier** — a sparse afterstate layer for agents' own thoughts and intentions across turns.
   - **Aithalides** — a source-grounded external memory engine for long-term agent memory.
   - **Anchises** — a memory organizer for clustering, timelines, people / projects, and unfinished threads.
   - **Er** — a forgetting and settling layer for decay, reconsolidation, pruning, and relevance loss over time.
